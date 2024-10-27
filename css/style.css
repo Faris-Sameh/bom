@@ -1,0 +1,10 @@
+body{
+    height: 3000px;
+}
+.navbar{
+    position: fixed;
+    width: 100%;
+}
+.ahmed{
+    margin-top: 70px;
+}
